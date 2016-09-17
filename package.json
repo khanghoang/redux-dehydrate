@@ -1,0 +1,24 @@
+{
+  "name": "redux-dehydrate",
+  "version": "0.0.1",
+  "description": "Store enhancer to dehydrate the initial state for redux store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/khanghoang/redux-dehydrate.git"
+  },
+  "keywords": [
+    "redux",
+    "store",
+    "enhancer"
+  ],
+  "author": "Khang Hoang <hoangtrieukhang@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khanghoang/redux-dehydrate/issues"
+  },
+  "homepage": "https://github.com/khanghoang/redux-dehydrate#readme"
+}
