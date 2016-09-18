@@ -1,6 +1,9 @@
 # redux-dehydrate
 Store enhancer for restoring the initial state of redux storage.
 
+# Real world use case:
+<will input>
+
 # Usage
 ```javascript
 // App.js
